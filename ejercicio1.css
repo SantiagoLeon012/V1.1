@@ -1,0 +1,34 @@
+h2{
+font-size:40px;
+}
+
+h2,h3,a{
+color:white;
+}
+
+body{
+background-color:rgb(138,169,214);
+font-family:"Times New Roman";
+}
+
+section{
+background-color:rgb(121,169,241);
+padding:20px;
+}
+
+img{
+border:4px solid black;
+border-radius:50%;
+display:block;
+margin-left:auto;
+width:200px;
+height:200px;
+}
+
+h3{
+color:rgb(34,0,255);
+}
+
+td{
+padding:20px;
+}
